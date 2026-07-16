@@ -1,0 +1,17 @@
+host: ""
+port: 8317
+
+tls:
+  enable: false
+
+remote-management:
+  allow-remote: true
+  secret-key: "sk-ming"
+  disable-control-panel: false
+
+auth-dir: "/CLIProxyAPI/auths"
+
+api-keys:
+  - "sk-ming"
+
+debug: false
