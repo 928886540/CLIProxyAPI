@@ -10,6 +10,7 @@ remote-management:
   disable-control-panel: false
 
 auth-dir: "/CLIProxyAPI/auths"
+disable-file-watcher: true
 
 api-keys:
   - "sk-ming"
